@@ -1,3 +1,5 @@
+# API Sample for LMEX Spot & Derivatives Cryptocurrency exchange
+
 Update API_HOST and WS_HOST variable for each environment
 ## Examples
 
